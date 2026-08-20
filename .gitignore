@@ -1,0 +1,9 @@
+.env
+__pycache__
+*.pyc
+venv
+.idea
+tmp_eval
+tmp_test
+tmp_trainer
+results
